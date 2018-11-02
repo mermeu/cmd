@@ -1,0 +1,18 @@
+baseURL = "http://example.org/"
+languageCode = "nl-nl"
+defaultContentLanguage = "nl"
+title = "Merijns Creatieve Voortgang"
+theme = "whiteplain"
+[[menu.main]]
+    name = "Portfolio"
+    weight = 20
+    url = "/portfolio/" 
+[[menu.main]]
+    name = "Blog"
+    weight = 10
+    url = "/posts/"
+
+[[menu.footer]]
+name = "De vormgeving van dit blog is nog steeds in ontwikkeling" 
+
+[taxonomies]

@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "merijn-cmd.netlify.com"
 languageCode = "nl-nl"
 defaultContentLanguage = "nl"
 title = "Merijns Creatieve Voortgang"
